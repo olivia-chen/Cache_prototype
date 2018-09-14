@@ -63,4 +63,6 @@ typings/
 # mac-os
 .DS_Store
 
-.xml
+*.xml
+
+*.iml
